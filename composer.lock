@@ -1808,6 +1808,7 @@
             },
             "require": {
                 "ext-ctype": "*",
+                "ext-bcmath": "*",
                 "ext-dom": "*",
                 "ext-fileinfo": "*",
                 "ext-gd": "*",
